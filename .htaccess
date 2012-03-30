@@ -1,0 +1,4 @@
+HeaderName  /.layout/header.html
+ReadmeName  /.layout/footer.html
+IndexIgnore .htaccess .layout robots.txt
+IndexOptions SuppressHTMLPreamble FancyIndexing IgnoreCase XHTML HTMLTable FoldersFirst NameWidth=*
